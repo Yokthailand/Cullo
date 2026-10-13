@@ -1,0 +1,25 @@
+# ผลลัพธ์/รูปตัวอย่าง (รูปเด็กนักเรียน ห้ามอัพ)
+ตัวอย่าง/
+ตัวอย่าง*_คัดแล้ว*/
+ลองคัด/
+*_คัดแล้ว*/
+# ไฟล์สร้าง
+build/
+build_*/
+dist/
+dist*/
+__pycache__/
+.pytest_cache/
+.claude/
+*.pyc
+# ข้อมูลป้ายจากรูปจริง (ไม่อัพ)
+dev-data/
+
+# ไม่เกี่ยวกับโปรเจกต์ / ไฟล์สร้าง
+*.spec
+Solar DC Connection Problem Map.png
+
+# เอกสาร/สคริปต์ช่วยพัฒนาที่ไม่ขึ้น GitHub
+HANDOFF.md
+dev-tools/*
+!dev-tools/refit_from_reports.py

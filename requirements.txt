@@ -1,0 +1,8 @@
+opencv-python-headless
+mediapipe
+numpy
+pillow
+customtkinter
+pyinstaller
+pytest
+scikit-learn   # เฉพาะงานปรับเกณฑ์ใน dev-tools ไม่ได้แพ็กใน .exe
